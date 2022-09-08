@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         val x = 10
         
         val word = "cromulent"
+
+        //here are more changes
     }
 }
